@@ -1,4 +1,4 @@
-# nft-token-mint
+# Smart Contract
 
 
   //SPDX-License-Identifier: UNLICENSED
